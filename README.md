@@ -11,3 +11,4 @@ TODO:
   - add user customizable options
   - clean up excess styles from highlight
   - more sites
+  - custom GUI optimization 
